@@ -1,0 +1,5 @@
+{
+    "debug.runAction": "launch",
+    "debug.defaultProgram": "${workspaceFolder}/main.exe"
+
+}
